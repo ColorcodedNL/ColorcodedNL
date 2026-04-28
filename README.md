@@ -21,7 +21,7 @@ workflows, storage, streaming infrastructure, post-production pipelines.
 ## Currently working on
 - CyberOps Associate
 - AZ-900 (Microsoft Azure Fundamentals)
-- MS-900 (Microsoft 365 Fundamentals)
+- AB-900 (Microsoft 365 Fundamentals)
 - Self-hosted homelab: Docker, Tailscale, ZFS, UniFi, Cloudflare, Proxmox
 - Linux (desktop + server)
 
