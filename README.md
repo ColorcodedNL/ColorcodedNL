@@ -10,7 +10,9 @@ Looking for roles at the intersection of media and IT: MAM systems, broadcast
 workflows, storage, streaming infrastructure, post-production pipelines.
 
 ## Certifications
+- AZ-900 (Microsoft Azure Fundamentals) (May 2026)
 - Cisco CCNA 1 — Introduction to Networks (Apr 2026)
+- Cisco Introduction to Cybersecurity (April 2026)
 - Cisco IT Customer Support Basics (Apr 2026)
 - Cisco Introduction to Modern AI (Mar 2026)
 - Cisco Networking Basics (Mar 2026)
@@ -20,7 +22,6 @@ workflows, storage, streaming infrastructure, post-production pipelines.
 
 ## Currently working on
 - CyberOps Associate
-- AZ-900 (Microsoft Azure Fundamentals)
 - AB-900 (Microsoft 365 Fundamentals)
 - Self-hosted homelab: Docker, Tailscale, ZFS, UniFi, Cloudflare, Proxmox
 - Linux (desktop + server)
