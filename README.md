@@ -21,7 +21,6 @@ workflows, storage, streaming infrastructure, post-production pipelines.
 - Techgrounds Pathways Orientation (Aug 2025)
 
 ## Currently working on
-- CyberOps Associate
 - AB-900 (Microsoft 365 Fundamentals)
 - Self-hosted homelab: Docker, Tailscale, ZFS, UniFi, Cloudflare, Proxmox
 - Linux (desktop + server)
