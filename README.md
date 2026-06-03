@@ -24,9 +24,27 @@ workflows, storage, streaming infrastructure, post-production pipelines.
 
 ## Homelab
 
-- Self-hosted stack: Docker, Tailscale, ZFS, UniFi, Cloudflare, Proxmox
-- Linux (desktop + server)
-- MAM platform testing: Iconik, Strada
+Self-hosted stack running on an M4 Mac Mini (OrbStack/Docker):
+
+**Productivity & storage**
+- Nextcloud AIO — file sync, office (Collabora), talk
+- OpenCloud/oCIS + Collabora — second cloud storage stack
+- Vaultwarden — password management
+- Immich — photo management with ML face/object recognition
+- Mealie — recipe manager
+- FreshRSS — RSS aggregator
+- Ollama — local LLM inference
+
+**Infrastructure & monitoring**
+- Prometheus + Grafana + cAdvisor + node-exporter + SNMP exporter
+- FleetDM — device management
+- RustDesk server — self-hosted remote desktop
+- Dockhand — container management
+- Tailscale — overlay network / zero-trust access
+- Cloudflare — DNS, tunnel, DDoS protection
+
+**MAM platform testing**
+- Iconik, Strada
 
 ## Background
 
