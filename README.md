@@ -10,6 +10,7 @@ Looking for roles at the intersection of media and IT: MAM systems, broadcast
 workflows, storage, streaming infrastructure, post-production pipelines.
 
 ## Certifications
+- AB-900 (Microsoft 365 Fundamentals) (Jun 2026)
 - AZ-900 (Microsoft Azure Fundamentals) (May 2026)
 - Cisco CCNA 1 — Introduction to Networks (Apr 2026)
 - Cisco Introduction to Cybersecurity (April 2026)
@@ -21,7 +22,6 @@ workflows, storage, streaming infrastructure, post-production pipelines.
 - Techgrounds Pathways Orientation (Aug 2025)
 
 ## Currently working on
-- AB-900 (Microsoft 365 Fundamentals)
 - Self-hosted homelab: Docker, Tailscale, ZFS, UniFi, Cloudflare, Proxmox
 - Linux (desktop + server)
 
