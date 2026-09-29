@@ -55,12 +55,13 @@ European as well.
 **Infrastructure**
 - Dockhand: container management, vulnerability scanning
 - Home Assistant OS (UTM VM): home automation, energy monitoring
-- Backups: ChronoSync, Time Machine and Backblaze
+- Backups: ChronoSync and Time Machine locally, Backblaze offsite for all
+  local data
 
 **Media**
 - Plex Media Server and Jellyfin
-- Iconik Storage Gateway: testing against a ~30TB DPG Media archive
-- Backblaze: offsite backup for the video archive
+- Iconik Storage Gateway: testing against my own ~30TB media archive from my
+  years as a video editor, on a test account kindly provided by Iconik
 
 ## Background
 7 years at DPG Media with hands-on involvement in MAM systems, storage,
