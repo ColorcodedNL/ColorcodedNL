@@ -31,30 +31,36 @@ hands-on experience in that field.
 - Techgrounds Pathways Orientation (Aug 2025)
 
 ## Homelab
-Self-hosted stack running on an M4 Mac Mini (OrbStack/Docker), fronted by
-Tailscale and Cloudflare Tunnel, no open WAN ports.
+Self-hosted stack on an M4 Mac Mini (OrbStack/Docker), connected through a
+self-hosted NetBird mesh. Where possible the infrastructure around it is
+European as well.
+
+**Access & networking**
+- NetBird (self-hosted): mesh VPN, reverse proxy and DNS, with per-user
+  accounts and group-based access policies
+- UniFi network with VLAN segmentation for IoT and guests
+- DNS at a Dutch provider
 
 **Productivity & storage**
-- Nextcloud AIO — file sync, office (Euro-Office), talk
-- OpenCloud + Collabora — second cloud storage stack
-- Immich — photo management with ML face/object recognition
-- Navidrome — music streaming
-- Linkwarden — bookmark and link archiving
-- FreshRSS — RSS aggregator
-- Vaultwarden — password management backup
-- Yamtrack — TV/film tracking
+- Nextcloud AIO: file sync, office, talk
+- OpenCloud + Collabora: second cloud storage stack
+- Immich: photo management with ML face/object recognition
+- Navidrome: music streaming
+- Linkwarden: bookmark and link archiving
+- FreshRSS: RSS aggregator
+- Yamtrack: TV/film tracking
+- OpenProject: project management, integrated with Nextcloud, used as
+  hands-on practice for functional application management
 
 **Infrastructure**
-- Dockhand — container management, vulnerability scanning
-- DockTail — shared Tailscale sidecar for multiple services
-- Home Assistant OS (UTM VM) — home automation
-- Tailscale — overlay network / zero-trust access
-- Cloudflare — DNS, tunnel, DDoS protection
+- Dockhand: container management, vulnerability scanning
+- Home Assistant OS (UTM VM): home automation, energy monitoring
+- Backups: ChronoSync, Time Machine and Backblaze
 
 **Media**
-- Plex Media Server
-- Iconik Storage Gateway — testing against a ~30TB DPG Media archive
-- Backblaze — offsite backup for the video archive
+- Plex Media Server and Jellyfin
+- Iconik Storage Gateway: testing against a ~30TB DPG Media archive
+- Backblaze: offsite backup for the video archive
 
 ## Background
 7 years at DPG Media with hands-on involvement in MAM systems, storage,
